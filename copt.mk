@@ -1,6 +1,6 @@
 ################################################################################
 # Application defines.
-TARGET    	=test_term.out
+TARGET    	=test_term
 CC  		=gcc
 LINK     	=gcc
 OBJ_COPY 	=objcopy
